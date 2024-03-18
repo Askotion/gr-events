@@ -2,5 +2,5 @@
   command = "npm i && HUGO_ENVIRONMENT=production hugo --gc"
 
 [build.environment]
-  HUGO_VERSION = "0.110.0"
+  HUGO_VERSION = "0.120.0"
 
