@@ -1,5 +1,5 @@
 [build]
-  command = "npm i && HUGO_ENVIRONMENT=production hugo --gc"
+  command = "npm install && npm start"
   publish = "public"
 
 [build.environment]
