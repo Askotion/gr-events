@@ -1,4 +1,4 @@
-baseurl = "https://gr-events.netlify.app"
+baseurl = "https://blist.vercel.app"
 metaDataFormat = "yaml"
 title = "Blist Multilingual Theme"
 theme = "blist"
