@@ -3,7 +3,6 @@ author: "Hugo Authors"
 title: "Catering"
 description: "Beispielartikel, der die grundlegende Markdown-Syntax und Formatierung für HTML-Elemente zeigt."
 tags: ["markdown", "css", "html"]
-date: 2021-07-14
 thumbnail: https://picsum.photos/id/1019/500/200
 ---
 
