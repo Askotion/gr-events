@@ -1,6 +1,6 @@
 baseurl = "https://gr-events.netlify.app"
 metaDataFormat = "yaml"
-title = "Blist Multilingual Theme"
+title = "G&R Events"
 theme = "blist"
 
 DefaultContentLanguage = "de"
@@ -13,7 +13,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "G&R Events"
       introSubtitle = "Hostess service / Catering"
-      introPhoto = "/1.jpeg"
+      introPhoto = "/front.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
@@ -44,7 +44,7 @@ DefaultContentLanguageInSubdir = true
       description = "Modernes Blog-Theme für Ihre Hugo-Site."
       introTitle = "G&R Events"
       introSubtitle = "Hostess service / Catering"
-      introPhoto = "/1.jpeg"
+      introPhoto = "/front.jpg"
       logo = "/Events-white.png"
     [[languages.de.menu.main]]
         name = "Leistungen"
@@ -60,31 +60,7 @@ DefaultContentLanguageInSubdir = true
         name = "Kontakt"
         url = "tags"
         weight = 3
-        
-  [languages.fr]
-    contentDir = "content/fr" #French
-    weight = 1
-    languageName = "Français"
-    [languages.fr.params]
-      introTitle = "Salut! Je suis Katheryn Fox"
-      introSubtitle = "Développeuse junior de 26 ans qui adore les jeux de société, le blogging et la peinture"
-      introPhoto = "/picture.jpg"
-      logo = "/blist-logo.png"
-    [[languages.fr.menu.main]]
-        name = "Blog"
-        url = "blog"
-        weight = 1
-
-    [[languages.fr.menu.main]]
-        name = "À propos"
-        url = "page/about/"
-        weight = 2
-
-    [[languages.fr.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 3
-        
+                
 [params]
   # Enable the darkmode toggle in header
   darkModeToggle = true
