@@ -1,6 +1,6 @@
 ---
 author: "Hugo Authors"
-title: "Emoji-Unterstützung"
+title: "Hostess Services"
 date: 2021-07-15
 lastmod: 2021-10-14
 description: "Anleitung zur Verwendung von Emojis in Hugo"

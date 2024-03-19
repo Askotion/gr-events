@@ -1,6 +1,6 @@
 ---
 author: "Hugo Authors"
-title: "Reichhaltiger Inhalt"
+title: "Entertainment"
 date: 2021-07-13
 description: "Eine kurze Beschreibung von Hugo Shortcodes"
 tags: ["shortcodes", "privacy"]

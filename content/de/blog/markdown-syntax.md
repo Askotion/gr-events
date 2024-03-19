@@ -1,6 +1,6 @@
 ---
 author: "Hugo Authors"
-title: "Markdown Syntax Guide"
+title: "Catering"
 description: "Beispielartikel, der die grundlegende Markdown-Syntax und Formatierung für HTML-Elemente zeigt."
 tags: ["markdown", "css", "html"]
 date: 2021-07-14
