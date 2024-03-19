@@ -2,7 +2,7 @@
 author: "Hugo Authors"
 title: "Catering"
 description: "G&R Events"
-thumbnail: /3.jpeg
+thumbnail: /2.jpeg
 ---
 
 Dieser Artikel bietet ein Beispiel für die grundlegende Markdown-Syntax, die in Hugo-Inhaltsdateien verwendet werden kann, und zeigt auch, ob grundlegende HTML-Elemente mit CSS in einem Hugo-Theme dekoriert sind.
