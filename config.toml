@@ -3,7 +3,7 @@ metaDataFormat = "yaml"
 title = "Blist Multilingual Theme"
 theme = "blist"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 DefaultContentLanguageInSubdir = true
 [languages]
   [languages.en]
@@ -47,17 +47,17 @@ DefaultContentLanguageInSubdir = true
       introPhoto = "/1.jpeg"
       logo = "/Events-white.png"
     [[languages.de.menu.main]]
-        name = "Blog"
+        name = "Leistungen"
         url = "blog"
         weight = 1
 
     [[languages.de.menu.main]]
-        name = "Über mich"
+        name = "Über uns"
         url = "page/about/"
         weight = 2
 
     [[languages.de.menu.main]]
-        name = "Tags"
+        name = "Kontakt"
         url = "tags"
         weight = 3
         
@@ -95,7 +95,7 @@ DefaultContentLanguageInSubdir = true
   darkModeToggle = true
   
   # Enable search in header
-  enableSearch = true
+  enableSearch = false
 
   # Option to customize the search parameters of a page
   # Below are the supported options; Note that including entire content
@@ -112,7 +112,7 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2021 - Katheryn Fox · All rights reserved"
+  copyright = "Copyright © 2021 - G&R Events · All rights reserved"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
