@@ -85,11 +85,6 @@ DefaultContentLanguageInSubdir = true
         url = "tags"
         weight = 3
         
-  [languages.dy]
-    contentDir = "content/dy" #Example language
-    weight = 3
-    languageName = "Test Language"
-
 [params]
   # Enable the darkmode toggle in header
   darkModeToggle = true
