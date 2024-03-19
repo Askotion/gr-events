@@ -13,7 +13,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "G&R Events"
       introSubtitle = "Hostess service / Catering"
-      introPhoto = "/1.jpg"
+      introPhoto = "/1.jpeg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
@@ -44,7 +44,7 @@ DefaultContentLanguageInSubdir = true
       description = "Modernes Blog-Theme für Ihre Hugo-Site."
       introTitle = "G&R Events"
       introSubtitle = "Hostess service / Catering"
-      introPhoto = "/1.jpg"
+      introPhoto = "/1.jpeg"
       logo = "/Events-white.png"
     [[languages.de.menu.main]]
         name = "Blog"
