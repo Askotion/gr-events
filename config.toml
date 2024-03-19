@@ -41,9 +41,9 @@ DefaultContentLanguageInSubdir = true
     languageName = "Deutsch"
     title = "G&R Events"
     [languages.de.params]
-      description = "Modernes Blog-Theme für Ihre Hugo-Site."
-      introTitle = "G&R Events"
-      introSubtitle = "Hostess service / Catering"
+      description = "Ihr Partner für exklusive Eventservices"
+      introTitle = "Leidenschaft für Perfektion"
+      introSubtitle = "Ihr Partner für exklusive Eventservices"
       introPhoto = "/front.jpg"
       logo = "/Events-white.png"
     [[languages.de.menu.main]]
