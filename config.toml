@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hey! I'm Katheryn Fox"
-      introSubtitle = "26 y/o junior developer who enjoys social card games, blogging and painting"
-      introPhoto = "/picture.jpg"
+      introTitle = "G&R Events"
+      introSubtitle = "Hostess service / Catering"
+      introPhoto = "/1.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
@@ -42,9 +42,9 @@ DefaultContentLanguageInSubdir = true
     title = "Blist (mehrsprachig)"
     [languages.de.params]
       description = "Modernes Blog-Theme für Ihre Hugo-Site."
-      introTitle = "Hallo, ich bin Katheryn Fox"
-      introSubtitle = "26-jährige Junior-Entwicklerin, die Spaß an sozialen Kartenspielen, Bloggen und Malen hat"
-      introPhoto = "/picture.jpg"
+      introTitle = "G&R Events"
+      introSubtitle = "Hostess service / Catering"
+      introPhoto = "/1.jpg"
       logo = "/Events-white.png"
     [[languages.de.menu.main]]
         name = "Blog"
