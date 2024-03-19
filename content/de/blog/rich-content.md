@@ -2,8 +2,7 @@
 author: "Hugo Authors"
 title: "Entertainment"
 date: 2021-07-13
-description: "Eine kurze Beschreibung von Hugo Shortcodes"
-tags: ["shortcodes", "privacy"]
+description: "G&R Events"
 thumbnail: /2.jpeg
 ---
 

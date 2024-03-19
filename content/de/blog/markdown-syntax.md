@@ -1,9 +1,8 @@
 ---
 author: "Hugo Authors"
 title: "Catering"
-description: "Beispielartikel, der die grundlegende Markdown-Syntax und Formatierung für HTML-Elemente zeigt."
-tags: ["markdown", "css", "html"]
-thumbnail: https://picsum.photos/id/1019/500/200
+description: "G&R Events"
+thumbnail: /3.jpeg
 ---
 
 Dieser Artikel bietet ein Beispiel für die grundlegende Markdown-Syntax, die in Hugo-Inhaltsdateien verwendet werden kann, und zeigt auch, ob grundlegende HTML-Elemente mit CSS in einem Hugo-Theme dekoriert sind.
