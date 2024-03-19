@@ -39,7 +39,7 @@ DefaultContentLanguageInSubdir = true
     contentDir = "content/de" # Deutsch
     weight = 2
     languageName = "Deutsch"
-    title = "Blist (mehrsprachig)"
+    title = "G&R Events"
     [languages.de.params]
       description = "Modernes Blog-Theme für Ihre Hugo-Site."
       introTitle = "G&R Events"
