@@ -6,26 +6,5 @@ description: "Unser vielseitiges Entertainment-Angebot sorgt für begeisternde u
 thumbnail: /3.png
 ---
 
-Hugo wird mit mehreren [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes) für reichhaltige Inhalte geliefert, zusammen mit einer [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) und einer Reihe einfacher Shortcodes, die statische und keine JS-Versionen verschiedener Social-Media-Einbettungen ermöglichen.
-
-## <!--more-->
-
-## YouTube Privacy Enhanced Shortcode
-
-{{< youtube ZJthWmvUzzc >}}
-
-<br>
-
----
-
-## Tweet Shortcode
-
-{{< tweet user="DesignReviewed" id="1085870671291310081" >}}
-
-<br>
-
----
-
-## Vimeo Simple Shortcode
-
-{{< vimeo_simple 48912912 >}}
+Unsere talentierten und erfahrenen Entertainment-Profis bereichern jede Veranstaltung mit Kreativität, Leidenschaft und Professionalität.
+Von DJs und Live-Bands bis hin zu Magiern, Tänzern und Animateuren bieten wir ein breites Spektrum an Unterhaltungsoptionen für jeden Anlass.
