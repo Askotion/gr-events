@@ -1,26 +1,25 @@
 ---
 author: Katheryn Fox
-title: Über mich
-date: 2021-07-15
+title: Über uns
+#date: 2021-07-15
 description:
 keywords: ["about-us", "about-hugo", "contact"]
 type: about
 ---
 
-Hugo wurde in Go geschrieben und ist ein Open-Source-Generator für statische Sites, der unter der [Apache License 2.0](https://github.com/gohugoio/hugo/blob/master/LICENSE) verfügbar ist. Hugo unterstützt TOML-, YAML- und JSON-Datendateitypen , Markdown- und HTML-Inhaltsdateien und verwendet Shortcodes, um Rich Content hinzuzufügen. Andere bemerkenswerte Funktionen sind Taxonomien, mehrsprachiger Modus, Bildverarbeitung, benutzerdefinierte Ausgabeformate, HTML/CSS/JS-Minifizierung und Unterstützung für Sass SCSS-Workflows.
+Bei G&R Events dreht sich alles um die Schaffung außergewöhnlicher Erlebnisse. Unser Herzstück sind die Leidenschaft für Gastfreundschaft und die Liebe zum Detail. Als erfahrener Dienstleister für Catering und Eventmanagement in München, stehen wir für Qualität, Kreativität und Professionalität.
+Über die Jahre haben wir uns zu einem vertrauenswürdigen Partner für zahlreiche Kunden entwickelt – von privaten Feiern bis zu großen Firmenevents.
 
-Hugo nutzt eine Vielzahl von Open-Source-Projekten, darunter:
+## Unser Team:
+Unser Team besteht aus erfahrenen Profis, die Experten in den Bereichen Catering, Eventplanung und Kundenbetreuung sind. Wir arbeiten Hand in Hand, um sicherzustellen, dass jedes Detail Ihrer Veranstaltung perfektioniert wird.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+![Alt text](1.jpeg "Catier")
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## Unsere Leistungen:
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+- Catering: Von exquisiten Menüs bis hin zu beeindruckenden Buffets – unser Catering ist so einzigartig wie Ihr Event.
+- Eventplanung: Wir kümmern uns um alles – von der Idee bis zur Umsetzung, damit Sie sich entspannt zurücklehnen können.
+- Personalisierte Konzepte: Jede Veranstaltung ist einzigartig. Wir entwerfen maßgeschneiderte Konzepte, die genau auf Ihre Bedürfnisse zugeschnitten sind.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## Unser Engagement:
+Nachhaltigkeit und soziales Engagement liegen uns am Herzen. Wir streben danach, nicht nur für unsere Kunden, sondern auch für die Umwelt und die Gemeinschaft einen positiven Unterschied zu machen.
