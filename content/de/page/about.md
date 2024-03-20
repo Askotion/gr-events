@@ -5,6 +5,7 @@ title: Über uns
 description:
 keywords: ["about-us", "about-hugo", "contact"]
 type: about
+image: /1.jpeg
 ---
 
 Bei G&R Events dreht sich alles um die Schaffung außergewöhnlicher Erlebnisse. Unser Herzstück sind die Leidenschaft für Gastfreundschaft und die Liebe zum Detail. Als erfahrener Dienstleister für Catering und Eventmanagement in München, stehen wir für Qualität, Kreativität und Professionalität.
@@ -13,7 +14,7 @@ Bei G&R Events dreht sich alles um die Schaffung außergewöhnlicher Erlebnisse.
 ## Unser Team:
 Unser Team besteht aus erfahrenen Profis, die Experten in den Bereichen Catering, Eventplanung und Kundenbetreuung sind. Wir arbeiten Hand in Hand, um sicherzustellen, dass jedes Detail Ihrer Veranstaltung perfektioniert wird.
 
-![Alt text](1.jpeg "Catier")
+![Alt text](/1.jpeg "Catier")
 
 ## Unsere Leistungen:
 
