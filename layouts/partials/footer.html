@@ -1,18 +1,16 @@
-<footer class="container p-6 mx-auto flex justify-between items-center">
-  <span class="text-sm font-light">
-    {{ if (isset .Site.Params "copyright") }}
-    {{ .Site.Params.copyright | safeHTML }}
-    {{ else }}
-    {{ dateFormat "2006" now }} © {{ .Site.Title }}
-    {{ end }}
-  </span>
-  <span onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="p-1 cursor-pointer">
-    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" stroke-width="1.5"
-      stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <path d="M18 15l-6 -6l-6 6h12" />
-    </svg>
-  </span>
+
+  <footer class="border-t border-gray-200 dark:border-gray-700 p-6">
+    <div class="container mx-auto text-center text-gray-500 dark:text-gray-400">
+      <p>Ein Unternehmen der</p>
+      <div>
+        <a href="https://gr-hld.com" target="_blank">
+          <img src="/gr_group_logo_white.png" class="hidden dark:block mx-auto" style="max-width:200px;">
+          <img src="/gr_group_logo_white.png" class="block dark:hidden mx-auto" style="max-width:200px;">
+        </a>
+      </div>
+    </div>
+  </div>
+
 </footer>
 
 {{ if .Site.Params.enableSearch }}
