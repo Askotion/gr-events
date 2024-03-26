@@ -4,17 +4,18 @@ title: "Impressum"
 
 ### Angaben gemäß § 5 TMG
 
-G&R Events UG  
+G&R Events UG (haftungsbeschränkt) 
 Leopoldstraße 31  
 80802 München, Deutschland
 
-### Vertreten durch
-
+### Geschäftsführung
 Banu Dicle
 
-### Kontakt
+### Vorsitzender des Aufsichtsrates
+Joshua Roach
 
-Telefon: +49 89 61465283    
+### Kontakt
+Telefon: +49 89 189 170 720
 E-Mail: office@gr-events.de
 
 
