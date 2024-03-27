@@ -1,5 +1,14 @@
 
   <footer class="border-t border-gray-200 dark:border-gray-700 p-6">
+
+    <div class="links-container">
+      <a href="/de/page/impressum" class="link">Impressum</a>
+      <a href="/d/page/datenschutz" class="link">Datenschutz</a>
+      <a href="/de/page/agb" class="link">AGB</a>
+    </div>
+    <hr>
+    
+
     <div class="container mx-auto text-center text-gray-500 dark:text-gray-400">
       <p>Ein Unternehmen der</p>
       <div>
@@ -11,7 +20,36 @@
     </div>
   </div>
 
+  <style>
+    .links-container {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    
+    .link {
+      margin: 0 15px;
+      display: inline-block; /* Nebeneinander auf Desktop */
+    }
+    
+    /* Stil für die Trennlinie */
+    hr {
+      border-color: gray;
+      margin-bottom: 20px; /* Abstand zum Footer */
+    }
+    
+    /* Responsive Design für Mobilgeräte */
+    @media (max-width: 768px) {
+      .link {
+        display: block; /* Unter einander auf Mobile */
+        margin: 10px auto; /* Zentrieren der Links */
+      }
+    }
+    
+  </style>
+
 </footer>
+
+
 
 {{ if .Site.Params.enableSearch }}
 {{- partial "search-ui.html" . -}}
