@@ -1,5 +1,4 @@
 ---
-author: "Hugo Authors"
 title: "Entertainment"
 date: 2021-07-13
 description: "Unser vielseitiges Entertainment-Angebot sorgt für begeisternde und unvergessliche Momente, die Ihr Event zu einem besonderen Erlebnis machen."
