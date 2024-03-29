@@ -1,7 +1,7 @@
 ---
 title: "Entertainment"
 description: "Unser vielseitiges Entertainment-Angebot sorgt für begeisternde und unvergessliche Momente, die Ihr Event zu einem besonderen Erlebnis machen."
-thumbnail: /3.png
+thumbnail: /band.jpg
 ---
 
 Erleben Sie mit dem G&R Events Entertainment-Service eine Welt voller Rhythmus, Leidenschaft und Kreativität. Unser umfassendes Angebot an Live-Musik, DJs und Tänzern sorgt dafür, dass Ihr Event zu einem unvergesslichen Erlebnis wird.
