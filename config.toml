@@ -48,7 +48,7 @@ DefaultContentLanguageInSubdir = true
       logo = "/Events-white.png"
     [[languages.de.menu.main]]
         name = "Leistungen"
-        url = "blog"
+        url = "leistungen"
         weight = 1
 
     [[languages.de.menu.main]]
