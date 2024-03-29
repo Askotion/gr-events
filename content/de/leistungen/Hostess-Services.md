@@ -1,4 +1,5 @@
 ---
+author: "Hugo Authors"
 title: "Hostess Services"
 description: "Unser engagiertes Hostess-Team bietet exzellenten Service und ein unvergessliches Erlebnis, um Ihr Event perfekt zu machen."
 thumbnail: /4.jpeg
