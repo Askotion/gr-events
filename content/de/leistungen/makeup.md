@@ -12,9 +12,6 @@ Ob elegantes Abend-Makeup, eine natürliche Tages-Optik oder ein extravagantes T
 ### Individuell und Persönlich:
 Jeder Mensch ist einzigartig, und so ist es auch unser Ansatz. Wir bieten eine persönliche Beratung und sorgen dafür, dass jeder Look Ihre Persönlichkeit unterstreicht und zu Ihrem besonderen Anlass passt. Unser Ziel ist es, Ihre natürliche Schönheit hervorzuheben und Sie zum Strahlen zu bringen.
 
-### Vielseitige Beauty-Dienstleistungen:
-Neben Makeup bieten wir auch eine Reihe weiterer Beauty-Dienstleistungen an, darunter Haarstyling, Maniküre und Gesichtsbehandlungen. Unser umfassender Service sorgt dafür, dass Sie sich von Kopf bis Fuß gepflegt und wunderschön fühlen.
-
 ### Ideal für jeden Anlass:
 Unser Makeup- und Beauty-Service eignet sich perfekt für Hochzeiten, Gala-Events, Fotoshootings, Firmenfeiern und jede andere Gelegenheit, bei der Sie einen bleibenden Eindruck hinterlassen möchten.
 
