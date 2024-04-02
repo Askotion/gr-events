@@ -1,7 +1,7 @@
 ---
 title: "Catering"
 description: "Mit unserem erstklassigen Catering-Service verwöhnen wir Ihre Gäste mit kulinarischen Köstlichkeiten, die auf Ihre individuellen Wünsche abgestimmt sind."
-thumbnail: /2.jpeg
+thumbnail: /catering.jpg
 ---
 
 Unser Küchenteam kreiert ein vielfältiges Angebot an Gaumenfreuden, von klassischen Gerichten bis hin zu innovativen Kreationen. Wir legen großen Wert auf Frische, Qualität und die sorgfältige Auswahl der Zutaten. Unsere Menüs werden individuell auf Ihre Wünsche und Bedürfnisse abgestimmt, inklusive Optionen für spezielle Ernährungsbedürfnisse wie vegetarische, vegane oder glutenfreie Gerichte.

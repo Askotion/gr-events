@@ -2,7 +2,7 @@
 author: "Hugo Authors"
 title: "Hostess Services"
 description: "Unser engagiertes Hostess-Team bietet exzellenten Service und ein unvergessliches Erlebnis, um Ihr Event perfekt zu machen."
-thumbnail: /4.jpeg
+thumbnail: /3.jpeg
 ---
 
 Wir bieten Ihnen maßgeschneiderte Hostess-Dienstleistungen für eine Vielzahl von Anlässen, darunter Messen, Konferenzen, Firmenveranstaltungen, Galas und Promotion-Events. Unsere Hostessen und Hosts sind speziell geschult, um einen reibungslosen Ablauf zu gewährleisten und Ihre Gäste mit höchster Professionalität und Freundlichkeit zu betreuen.
