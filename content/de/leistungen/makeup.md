@@ -1,7 +1,7 @@
 ---
 title: "Makeup Service"
 description: "Egal ob Gala-Dinner, Fotoshooting oder ein besonderer gesellschaftlicher Anlass – unser Makeup- und Beauty-Service verleiht Ihnen für jeden Moment den perfekten Glanz."
-thumbnail: /makeup4.jpg
+thumbnail: /makeup5.jpg
 ---
 
 G&R Events bringt Schönheit und Glamour direkt zu Ihrem Event mit unserem professionellen Makeup- und Beauty-Service. Unser Team aus erfahrenen Stylisten und Makeup-Artists sorgt dafür, dass Sie und Ihre Gäste mit strahlender Schönheit beeindrucken.
