@@ -1,7 +1,7 @@
 ---
 title: "Chauffeur-Service"
 description: "Erleben Sie mit unserem Chauffeur-Service erstklassigen Komfort, Luxus und Diskretion für Ihre elegante und sichere Fahrt zu jedem Anlass."
-thumbnail: /chauffeur3.jpg
+thumbnail: /chauffeur1.jpg
 ---
 
 Entdecken Sie den Komfort und die Eleganz unseres Chauffeur-Services bei G&R Events. Wir bieten Ihnen einen exklusiven Fahrservice, der Ihre Mobilitätsbedürfnisse mit Stil, Sicherheit und höchstem Komfort erfüllt. Unser Service ist ideal für Geschäftsreisende, VIPs, private Anlässe und spezielle Veranstaltungen.
